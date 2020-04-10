@@ -1,5 +1,5 @@
 # Cpp-Codes
-Collection of different problems solved in C++
+<b>Collection of different problems solved in C++</b>
 
 This repository contains several programming problems sorted topic wise into folders.
 
